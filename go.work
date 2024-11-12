@@ -2,5 +2,5 @@ go 1.23.2
 
 use (
 	./echo
-	./echo_udp_srv
+	./udp_srv_echo
 )
