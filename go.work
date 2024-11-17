@@ -3,4 +3,5 @@ go 1.23.2
 use (
 	./echo
 	./udp_srv_echo
+    ./udp_client
 )
